@@ -13,7 +13,7 @@ h2 {
 }
 
 .navbar {
-    background-color: #1a1a1a;
+    background-color: #1e866e;
     color: #fff;
     display: flex;
     justify-content: space-between;
@@ -33,6 +33,28 @@ h2 {
 
 .navbar ul li a:hover {
     background-color: #fff;
-    color: #1a1a1a;
+    color: #1e866e;
     border-radius: 4px;
+}
+
+p {
+    padding-left: 30px;
+    padding-bottom: 20px;
+    padding-right: 60px;
+}
+
+.contenu ul {
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-bottom: 20px;
+}
+
+.contenu li {
+    padding-left: 80px;
+    padding-top: 20px;
+    padding-right: 60px;
+}
+
+.flotte {
+    float: left;
 }
